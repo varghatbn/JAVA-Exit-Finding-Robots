@@ -1,11 +1,11 @@
 # JAVA-Exit-Finding-Robots
-      The project was implemented using Java as the base language. The goal of the program is
-for the robots to find an exit given different scenarios. With Java being an object oriented
-program, we designed each part of the program to run based on our main objects, the
-robot and the exit. The map/circle and the menu are part of the main class. Through the
-main menu, the user can choose between six options to demonstrate how the robots
-find their way: 3 for each given scenario and 3 multi-runs to calculate the worst case and
-average evacuation time.
+    The project was implemented using Java as the base language. The goal of the program is
+    for the robots to find an exit given different scenarios. With Java being an object oriented
+    program, we designed each part of the program to run based on our main objects, the
+    robot and the exit. The map/circle and the menu are part of the main class. Through the
+    main menu, the user can choose between six options to demonstrate how the robots
+    find their way: 3 for each given scenario and 3 multi-runs to calculate the worst case and
+    average evacuation time.
 
 ## Verison
     1.2.0
